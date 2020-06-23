@@ -14,6 +14,7 @@
 
   body {
     /* set the background color here */
+      background-image: url('n.jpg');
         color: black;
     /* set the text color to black here */
     /* set the font here */font-family: Arial,Helvetica, sans-serif;
