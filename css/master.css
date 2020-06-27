@@ -14,7 +14,8 @@
 
   body {
     /* set the background color here */
-    background-color: beige;
+    background-image: url("n.jpg");
+  background-color: #cccccc;
 
             color: black;
     /* set the text color to black here */
